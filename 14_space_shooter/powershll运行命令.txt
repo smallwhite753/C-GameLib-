@@ -1,0 +1,1 @@
+& "D:\software\mingw64\bin\g++.exe" D:\Project\C++Project\tmp05\examples\14_space_shooter\src\14_space_shooter.cpp -o D:\Project\C++Project\tmp05\examples\14_space_shooter\out\space_shooter.exe -mwindows

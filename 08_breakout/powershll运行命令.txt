@@ -1,0 +1,1 @@
+& "D:\software\mingw64\bin\g++.exe" D:\Project\C++Project\tmp05\examples\08_breakout\src\08_breakout.cpp -o D:\Project\C++Project\tmp05\examples\08_breakout\out\breakout.exe -mwindows

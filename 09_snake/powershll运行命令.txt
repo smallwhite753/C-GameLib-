@@ -1,0 +1,1 @@
+& "D:\software\mingw64\bin\g++.exe" D:\Project\C++Project\tmp05\examples\09_snake\src\09_snake.cpp -o D:\Project\C++Project\tmp05\examples\09_snake\out\snake.exe -mwindows
